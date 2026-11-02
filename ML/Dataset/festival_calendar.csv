@@ -1,0 +1,50 @@
+event_date,event_name,event_type,date_note,simulated_sales_uplift
+2025-01-01,New Year's Day,Public holiday,Calendar date used for prototype; regional observance may vary.,True
+2025-01-14,Makar Sankranti / Pongal,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-01-26,Republic Day,National day,Calendar date used for prototype; regional observance may vary.,True
+2025-02-26,Maha Shivaratri,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-03-14,Holi,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-03-31,Eid al-Fitr (provisional),Festival,Date may vary by local calendar/moon sighting; verify for deployment.,True
+2025-04-18,Good Friday,Public holiday,Calendar date used for prototype; regional observance may vary.,True
+2025-06-07,Eid al-Adha (provisional),Festival,Date may vary by local calendar/moon sighting; verify for deployment.,True
+2025-08-09,Raksha Bandhan,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-08-15,Independence Day,National day,Calendar date used for prototype; regional observance may vary.,True
+2025-08-16,Janmashtami,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-08-27,Ganesh Chaturthi,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-09-05,Onam (regional),Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-10-02,Gandhi Jayanti,National day,Calendar date used for prototype; regional observance may vary.,True
+2025-10-02,Dussehra (regional calendar variation),Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-10-20,Diwali,Festival,Calendar date used for prototype; regional observance may vary.,True
+2025-12-25,Christmas,Public holiday,Calendar date used for prototype; regional observance may vary.,True
+2026-01-01,New Year's Day,Public holiday,Calendar date used for prototype; regional observance may vary.,True
+2026-01-14,Makar Sankranti / Pongal,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-01-26,Republic Day,National day,Calendar date used for prototype; regional observance may vary.,True
+2026-02-15,Maha Shivaratri,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-03-04,Holi,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-03-21,Eid al-Fitr (provisional),Festival,Date may vary by local calendar/moon sighting; verify for deployment.,True
+2026-03-26,Ram Navami,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-04-03,Good Friday,Public holiday,Calendar date used for prototype; regional observance may vary.,True
+2026-05-27,Eid al-Adha (provisional),Festival,Date may vary by local calendar/moon sighting; verify for deployment.,True
+2026-08-15,Independence Day,National day,Calendar date used for prototype; regional observance may vary.,True
+2026-08-28,Raksha Bandhan,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-09-04,Janmashtami,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-09-14,Ganesh Chaturthi,Festival,Calendar date used for prototype; regional observance may vary.,True
+2026-10-02,Gandhi Jayanti,National day,Calendar date used for prototype; regional observance may vary.,True
+2026-10-20,Dussehra,Festival,Calendar date used for prototype; regional observance may vary.,True
+2027-01-01,New Year's Day,Public holiday,2027 New Delhi prototype date; verify local observance.,True
+2027-01-15,Makar Sankranti / Pongal,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-01-26,Republic Day,National day,2027 New Delhi prototype date; verify local observance.,True
+2027-03-06,Maha Shivaratri,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-03-10,Eid al-Fitr (provisional),Festival,Provisional date; verify with local moon-sighting announcement.,True
+2027-03-22,Holi,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-04-15,Ram Navami,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-05-17,Eid al-Adha (provisional),Festival,Provisional date; verify with local moon-sighting announcement.,True
+2027-08-15,Independence Day,National day,2027 New Delhi prototype date; verify local observance.,True
+2027-08-17,Raksha Bandhan,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-08-25,Janmashtami,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-09-04,Ganesh Chaturthi,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-09-12,Onam (regional),Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-10-02,Gandhi Jayanti,National day,2027 New Delhi prototype date; verify local observance.,True
+2027-10-09,Dussehra,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-10-29,Diwali,Festival,2027 New Delhi prototype date; verify local observance.,True
+2027-12-25,Christmas,Public holiday,2027 New Delhi prototype date; verify local observance.,True

@@ -1,0 +1,27 @@
+product_id,product_name,current_stock,last_updated
+P001,Rice (5 kg),35,2026-11-02
+P002,Wheat Flour (5 kg),25,2026-11-02
+P003,Sugar (1 kg),30,2026-11-02
+
+P004,Salt (1 kg),20,2026-11-02
+P005,Cooking Oil (1 L),25,2026-11-02
+P006,Toor Dal (1 kg),18,2026-11-02
+P007,Milk (1 L),20,2026-11-02
+P008,Butter (100 g),12,2026-11-02
+P009,Tea (250 g),15,2026-11-02
+P010,Coffee (100 g),10,2026-11-02
+P011,Soft Drink (750 ml),30,2026-11-02
+P012,Bottled Water (1 L),40,2026-11-02
+P013,Biscuits,35,2026-11-02
+P014,Potato Chips,25,2026-11-02
+P015,Chocolate,20,2026-11-02
+P016,Instant Noodles,30,2026-11-02
+P017,Bath Soap,20,2026-11-02
+P018,Shampoo (180 ml),15,2026-11-02
+P019,Toothpaste (100 g),18,2026-11-02
+P020,Laundry Detergent (1 kg),15,2026-11-02
+P021,Dishwash Liquid (500 ml),12,2026-11-02
+P022,Festival Sweets (500 g),10,2026-11-02
+P023,Holi Colours (pack),5,2026-11-02
+P024,Diyas (set of 4),10,2026-11-02
+P025,Tricolour Flags,5,2026-11-02

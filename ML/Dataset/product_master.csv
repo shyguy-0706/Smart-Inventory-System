@@ -1,0 +1,26 @@
+product_id,product_name,category,unit,selling_price_inr,unit_cost_inr,base_daily_demand,supplier_lead_time_days,demand_scale,reorder_lead_time_days,simulated_data,safety_stock_days,suggested_reorder_point_units
+P001,Rice (5 kg),Groceries,bag,85,68,18,3,1.0,3,True,2,90
+P002,Wheat Flour (5 kg),Groceries,bag,55,42,14,3,0.9,3,True,2,70
+P003,Sugar (1 kg),Groceries,kg,42,34,12,3,1.0,3,True,2,60
+P004,Salt (1 kg),Groceries,kg,28,20,10,4,0.55,4,True,3,70
+P005,Cooking Oil (1 L),Groceries,bottle,48,39,14,4,0.95,4,True,3,98
+P006,Toor Dal (1 kg),Groceries,kg,32,25,10,3,0.75,3,True,2,50
+P007,Milk (1 L),Dairy,packet,65,52,12,1,1.35,1,True,1,24
+P008,Butter (100 g),Dairy,pack,18,14,8,3,0.45,3,True,2,40
+P009,Tea (250 g),Beverages,pack,22,17,8,4,0.7,4,True,2,48
+P010,Coffee (100 g),Beverages,pack,12,9,6,5,0.35,5,True,3,48
+P011,Soft Drink (750 ml),Beverages,bottle,38,27,14,4,1.1,4,True,2,84
+P012,Bottled Water (1 L),Beverages,bottle,45,9,5,2,1.2,2,True,2,20
+P013,Biscuits,Snacks,pack,55,42,14,3,1.25,3,True,2,70
+P014,Potato Chips,Snacks,pack,42,31,12,3,1.05,3,True,2,60
+P015,Chocolate,Snacks,bar,28,21,10,4,0.8,4,True,2,60
+P016,Instant Noodles,Snacks,pack,36,27,12,3,0.95,3,True,2,60
+P017,Bath Soap,Personal Care,bar,24,18,10,5,0.65,5,True,3,80
+P018,Shampoo (180 ml),Personal Care,bottle,14,10,6,7,0.4,7,True,4,66
+P019,Toothpaste (100 g),Personal Care,tube,20,15,8,5,0.55,5,True,3,64
+P020,Laundry Detergent (1 kg),Household,pack,18,14,7,5,0.6,5,True,3,56
+P021,Dishwash Liquid (500 ml),Household,bottle,12,9,5,5,0.38,5,True,3,40
+P022,Festival Sweets (500 g),Festival,box,8,5,3,4,0.15,4,True,3,21
+P023,Holi Colours (pack),Festival,pack,2,1,0,7,0.05,7,True,7,0
+P024,Diyas (set of 4),Festival,set,2,1,0,7,0.04,7,True,7,0
+P025,Tricolour Flags,Festival,piece,1,1,0,7,0.03,7,True,7,0
