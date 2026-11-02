@@ -89,8 +89,10 @@ st.sidebar.caption("Academic prototype • simulated training data")
 if products.empty or sales.empty:
     st.error("Missing ML/Dataset/product_master.csv or daily_sales_history.csv. Keep this app.py beside the ML folder.")
     st.stop()
-if not MODEL_PATH.exists():
-    st.error("Trained model missing: ML/models/random_forest_model.pkl")
+try:
+    model = load_model(MODEL_PATH)
+except Exception as e:
+    st.error(f"Could not load trained model: {e}")
     st.stop()
 
 try:
@@ -339,4 +341,3 @@ if go:
 
 st.divider()
 st.caption("SmartStock academic prototype • Existing Random Forest model • User-entered inventory • Multi-day demand forecast")
-
