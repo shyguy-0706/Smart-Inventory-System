@@ -40,13 +40,32 @@ def load_csv(path):
 
 @st.cache_resource
 def load_model(path):
+    path = Path(path)
+
+    # Reconstruct the model if it was uploaded in split parts
+    if not path.exists():
+        parts = sorted(
+            path.parent.glob(path.name + ".part*"),
+            key=lambda p: int(p.name.rsplit(".part", 1)[1])
+        )
+
+        if not parts:
+            raise FileNotFoundError(f"Model files not found: {path}")
+
+        with path.open("wb") as output:
+            for part in parts:
+                output.write(part.read_bytes())
+
     saved = joblib.load(path)
+
     if isinstance(saved, dict):
         for key in ("pipeline", "model", "best_model", "estimator", "random_forest"):
             if key in saved and hasattr(saved[key], "predict"):
                 return saved[key]
+
     if hasattr(saved, "predict"):
         return saved
+
     raise TypeError("Saved model object has no predict() method.")
 
 products = load_csv(DATA / "product_master.csv")
@@ -320,3 +339,4 @@ if go:
 
 st.divider()
 st.caption("SmartStock academic prototype • Existing Random Forest model • User-entered inventory • Multi-day demand forecast")
+
